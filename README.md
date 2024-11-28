@@ -42,7 +42,7 @@ npm install express mongoose bcrypt jsonwebtoken dotenv cors nodemon
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rauf-dayma/Youtube-clone.git
+    git clone https://github.com/rauf-dayma/RBAC-Project.git
     ```
 2. Install dependencies:
     ```bash
